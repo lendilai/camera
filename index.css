@@ -1,0 +1,8 @@
+input {
+  display: none;
+}
+
+label::before {
+  content: '\f030';
+  font-family: fontAwesome;
+}
